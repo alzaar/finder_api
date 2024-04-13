@@ -1,3 +1,8 @@
 finder/__pycache__
 providers/__pycache__
 venv
+.env
+finder/db.sqlite3
+finder/finder/__pycache__/
+finder/providers/__pycache__/
+finder/providers/urls.py
